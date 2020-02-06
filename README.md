@@ -1,3 +1,3 @@
-# homework-0
-My first GitHub repo
-This is an example to try GitHub and Rstudio
+# Train
+GitHub repo to publish different exercises
+Jupyter notebooks of work I have done
