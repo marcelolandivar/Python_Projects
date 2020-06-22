@@ -1,3 +1,2 @@
-# Train
-GitHub repo to publish different exercises
-Jupyter notebooks of work I have done during the University
+# Projects
+Different notebooks I have work in the last months as part of my master in Data Science
